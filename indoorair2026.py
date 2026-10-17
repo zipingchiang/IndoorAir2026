@@ -1,7 +1,3 @@
-# Reliability-aware supervisory Indoor Air analysis
-# Main manuscript output is intentionally limited to exactly 3 tables and 3 figures.
-# Full reproducibility/supporting outputs are retained under raw_outputs/.
-
 import argparse
 import json
 import math
